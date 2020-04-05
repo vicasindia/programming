@@ -5,10 +5,10 @@
 #include <stdio.h>
 
 int main(){
-	int year;           //Variable declaration
+	int year;           //variable declaration
 	char name[25];
 	printf("You are programming since (year): ");     //printing output to STDOUT
-	scanf("%d",&year);								//reading input from STDIN
+	scanf("%d",&year);				 //reading input from STDIN
 	printf("Your good name: ");
 	scanf("%s",name);
 	printf("---------------------------------------------\n");
@@ -18,7 +18,7 @@ int main(){
 	return 0;
 }
 
-/******************************************
+/**************************************************
 		  author: Vikas Yadav
 		  date: 3rd April,2020
-*******************************************/
+**************************************************/
