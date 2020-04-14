@@ -6,7 +6,7 @@ For each integer n in the interval  [a,b](given as input):
                                         -HackerRank
 */
 
-//Input-Output, Pointer, If-Else, Loop
+//Input-Output, 2D Array, Pointer, If-Else, Loop
 
 #include <stdio.h>
 
@@ -15,7 +15,8 @@ int main()
     int a, b;
     printf("Enter lower and upper range: ");
     scanf("%d %d", &a, &b);
-    char* word[10] = {"zero","one","two","three","four","five","six","seven","eight","nine"};
+    char word[][10] = {"zero","one","two","three","four","five","six","seven","eight","nine"}; //char *word[10]
+    printf("----------------------------------\n");
     for(int i=a; i<=b; i++) {
         if(i>9) {
             if(i%2 == 0)
@@ -28,4 +29,3 @@ int main()
     }
     return 0;
 }
-
