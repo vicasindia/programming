@@ -8,13 +8,13 @@ int main(){
 	int year;           //variable declaration
 	char name[25];
 	printf("You are programming since (year): ");     //printing output to STDOUT
-	scanf("%d",&year);				 //reading input from STDIN
+	scanf("%d", &year);				 //reading input from STDIN
 	printf("Your good name: ");
-	scanf("%s",name);
+	scanf("%s", name);
 	printf("---------------------------------------------\n");
-	printf("Hello %s,\n Welcome to the \"programming\" repository.\n",name);
+	printf("Hello %s,\n Welcome to the \"programming\" repository.\n", name);
 	year = 2020 - year;
-	printf(" You have %d year experience in programming.\n Your contribution will be very useful...\n Happy Coding!",year);
+	printf(" You have %d year experience in programming.\n Your contribution will be very useful...\n Happy Coding!", year);
 	return 0;
 }
 
