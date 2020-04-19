@@ -1,4 +1,4 @@
-/*********************************************************************************************
+/***************************************************************************************************************
 The ISBN(International Standard Book Number) is based upon a 10-digit code and valid if:
 1xdigit1 + 2xdigit2 + 3xdigit3 + ......... + 9xdigit9 + 10xdigit10 is divisible by 11.
 (e.g. 1401601499)
@@ -12,8 +12,9 @@ Output:
 	If the sum is divisible by 11, output the message, “Legal ISBN”.
 	If the sum is not divisible by 11, output the message, “Illegal ISBN”.
 
-															- HackerEarth
-*********************************************************************************************/
+									- HackerEarth
+***************************************************************************************************************/
+
 #include <stdio.h>
 
 int main() {
