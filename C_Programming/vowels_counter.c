@@ -1,10 +1,12 @@
+//Counts number of vowels for a given string
+
 #include <stdio.h>
 
 int isVowel(char ch) {
     char vowels[10] = "aeiouAEIOU";
-    for(int i = 0; i < 10; i++) {
-        if(ch == vowels[i])
-		    return 1;
+	for(int i = 0; i < 10; i++) {
+	    if(ch == vowels[i])
+			return 1;
     }
     return 0;
 }
