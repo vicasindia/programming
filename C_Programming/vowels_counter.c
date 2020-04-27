@@ -1,5 +1,4 @@
 //Counts number of vowels for a given string
-
 #include <stdio.h>
 
 int isVowel(char ch) {
