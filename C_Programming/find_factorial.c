@@ -4,7 +4,7 @@
 
 int main() {
 	int num;
-	unsigned long long int fact = 1;
+	unsigned long long fact = 1;
   printf("Enter the number to find factorial: ");
 	scanf("%d", &num);
 	for(int i=num; i>=2; i--)
