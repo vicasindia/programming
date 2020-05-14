@@ -7,20 +7,29 @@
 
 int main() {
 	
-	char s[100];
+	char s[250];
 	int i, j, flag = 1;
 	
 	printf("Enter the String: ");
 	scanf("%s", s);
-	int len = strlen(s);
+	int len = strlen(s)-1;
 	
-	for(i=0, j=len-1; i<j; i++, j--) {
-		if(s[i] != s[j]) {
-			flag=0;
+// 	for(i=0, j=len; i<j; i++, j--) {
+// 		if(s[i] != s[j]) {
+// 			flag=0;
+// 			break;
+// 		}	
+// 	}
+
+	for(i = 0; i < len-i; i++) {	//loop (0 - len/2)
+		if(s[i] != s[len-i]) {
+			flag = 0;
 			break;
-		}	
+		}
 	}
-	flag ? printf("Congratulations! It\'s a Palindrome.") : printf("Oops! Not Palindrome. Try another.");
+
+	flag ? printf("\nCongratulations! It\'s a Palindrome.") : printf("\nOops! Not Palindrome. Try another.");
 	
 	return 0;
 }
+
