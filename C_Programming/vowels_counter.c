@@ -1,6 +1,7 @@
 //Counts number of vowels for a given string
 #include <stdio.h>
 
+//Custom function which counts number of vowels in a given string
 int isVowel(char ch) {
     char vowels[10] = "aeiouAEIOU";
 	for(int i = 0; i < 10; i++) {
@@ -15,12 +16,17 @@ int main(void) {
 	int size=25, count=0;
 	printf("Enter the size of string: ");
 	scanf("%d", &size);
+	
 	char str[size];
 	printf("Enter the string: ");
 	scanf("%s", str);
+	
 	for(int i = 0; i < size; i++)
 	    if(isVowel(str[i]))
 	        count++;
+	
 	printf("Vowels Count: %d", count);
+	
 	return 0;
 }
+
