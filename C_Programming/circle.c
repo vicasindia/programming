@@ -12,13 +12,19 @@ int main() {
 	printf("Enter the radius of the circle: ");
 	scanf("%lf", &radius);
 	
+	printf("\n\n\t--------------- CIRCLE ---------------");
+	printf("\nA circle is a shape consisting of all points in a plane \nthat are a given distance from a given point, the centre.");
+	printf("\n\nNo. of vertices: 0");
+	printf("\nNo. of edges: 0");
+	printf("\nRadius: %.2lf", radius);
+	
 	diameter = 2 * radius;
 	circumference = 2 * PI * radius;
 	area = PI * radius * radius;
 	
-	printf("\nDiameter of circle: %.2lf", diameter);
-	printf("\nCircumference of circle: %.2lf", circumference);
-	printf("\nArea of circle: %.2lf", area);
+	printf("\nDiameter: %.2lf", diameter);
+	printf("\nCircumference: %.2lf", circumference);
+	printf("\nArea: %.2lf", area);
 	
 	return 0;
 }
