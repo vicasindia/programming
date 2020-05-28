@@ -2,7 +2,13 @@
 
 #include <stdio.h>
 
-long swap(long*, long*);
+//swap function
+long swap(long *a, long *b) {	
+    long temp;
+    temp = *b;
+    *b = *a;
+    *a = temp;   
+}    
 
 int main(void) {
     
@@ -13,18 +19,10 @@ int main(void) {
 	
 	printf("\nBefore Swapping: Num1 = %ld, Num2 = %ld", num1, num2);
 	
-	swap(&num1, &num2);
+	swap(&num1, &num2);    //Function calling
 	
 	printf("\nAfter Swapping:  Num1 = %ld, Num2 = %ld", num1, num2);
 	
 	return 0;
-}
-
-long swap(long *a, long *b) {
-	
-    long temp;
-    temp = *b;
-    *b = *a;
-    *a = temp;   
-}       
+}   
 
