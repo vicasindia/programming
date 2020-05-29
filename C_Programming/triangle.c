@@ -14,7 +14,7 @@
 
 int main() {
 	
-	double base, height, perimeter, area;
+	double base, height, area;
 	printf("Enter the base and height of the triangle: ");
 	scanf("%lf %lf", &base, &height);
 	
@@ -22,7 +22,7 @@ int main() {
 	printf("\nA triangle is a polygon with three edges and three vertices.");
 	printf("\n\nNo. of vertices: 3");
 	printf("\nNo. of edges: 3");
-	printf("\nsum of all internal angles: 180°");
+	printf("\nSum of all internal angles: 180°");
 	printf("\nPerimeter: sum of side lengths");
 	printf("\nBase: %.2lf", base);
 	printf("\nHeight: %.2lf", height);
