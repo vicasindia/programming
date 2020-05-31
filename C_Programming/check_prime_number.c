@@ -32,7 +32,6 @@ int main(void) {
 		}
 	}
 	
-	
 	if(flag)
 	    printf("%ld is a Prime Number.", num);
 	else
