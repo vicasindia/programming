@@ -4,8 +4,10 @@
 #include <stdio.h>
 
 int main() {
+	
 	int num;
 	unsigned long long fact = 1;
+	
     printf("Enter the number to find factorial: ");
 	scanf("%d", &num);
 	
@@ -13,5 +15,7 @@ int main() {
 		fact *= i;
 	
 	printf("%d! = %llu", num, fact);
+	
 	return 0;
 }
+
