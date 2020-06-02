@@ -18,10 +18,12 @@ Output:
 #include <stdio.h>
 
 int main() {
-	long int num, n;
-	int count=0, sum=0;
+	
+	long num, n;
+	int count = 0, sum = 0;
 	printf("Enter the ISBN-10 code: ");
 	scanf("%ld", &num);
+	
 	// Counting the number of digits
 	n = num;
 	while(n) {
@@ -31,10 +33,11 @@ int main() {
 
 	if(count != 10)
 		printf("Result: Illegal ISBN (Not 10 digits)");	
+	
 	else {
 		//Multiplying 10-1 in each digit of reverse of given number respectively & finding the sum.
-		for(int i=10; i>0; i--) {
-		sum += i*(num%10);
+		for(int i = 10; i > 0; i--) {
+		sum += i * (num % 10);
 		num /= 10;
 		}
 
