@@ -2,7 +2,7 @@
 Consider a currency system in which there are notes of nine denominations, 
 namely, ₹1, ₹2, ₹5, ₹10, ₹20, ₹50, ₹100, ₹500, ₹2000.
 Program to compute minimum number of notes that will combine to give ₹ N.
-											-CodeChef
+							-CodeChef
 ***************************************************************************/
 
 #include <stdio.h>
