@@ -27,7 +27,7 @@ int main() {
 		
 		case 7: printf("Sunday"); break;
 		
-		default: printf("Plaese, give valid input.");	//the order of default doesn't matter
+		default: printf("Please, enter valid input.");	//the order of default doesn't matter
 	}
 
 	return 0;
