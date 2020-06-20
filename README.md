@@ -32,4 +32,12 @@
 
 #### 9. Recursion
 
-#### 10. Other Programs
+#### 10. Maths
+
+* [Natural Numbers](C_Programming/natural_numbers.c)
+* [Tables](C_Programming/tables.c)
+* [Circle](C_Programming/circle.c)
+* [Triangle](C_Programming/triangle.c)
+* [Rectangle](C_Programming/rectangle.c)
+
+#### 11. Other Programs
