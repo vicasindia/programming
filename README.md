@@ -1,14 +1,14 @@
 ### C Programming
 
-#### 1. Introduction
+#### 01. Introduction
 
 * [Welcome](C_Programming/hello.c)
 * [Format Specifiers](C_Programming/format_specifiers.c)
 * [Copy Input to Output](C_Programming/copy_input_to_ouptput.c)
 
-#### 2. Data types, Operators and Expressions
+#### 02. Data types, Operators and Expressions
 
-#### 3. Flow Control
+#### 03. Flow Control
 
 * [if statement](C_Programming/if_statement.c)
 * [if-else statement](C_Programming/if-else_statement.c)
@@ -20,17 +20,17 @@
 * [switch statement](C_Programming/switch_statement.c)
 * [Example: Simple Calculator](C_Programming/simple_calculator.c)
 
-#### 4. Functions
+#### 04. Functions
 
-#### 5. Pointers
+#### 05. Pointers
 
-#### 6. Arrays
+#### 06. Arrays
 
-#### 7. Strings
+#### 07. Strings
 
-#### 8. Input Output
+#### 08. Input Output
 
-#### 9. Recursion
+#### 09. Recursion
 
 #### 10. Maths
 
