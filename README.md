@@ -36,6 +36,9 @@
 
 * [Natural Numbers](C_Programming/natural_numbers.c)
 * [Tables](C_Programming/tables.c)
+* [Smallest and Largest Number](C_Programming/min_max_number.c)
+* [Sum of Natural Numbers](C_Programming/sum_of_natural_numbers.c)
+* [Sum of Natural Numbers (using Formula)](C_Programming/sum_of_natural_numbers_02.c)
 * [Circle](C_Programming/circle.c)
 * [Triangle](C_Programming/triangle.c)
 * [Rectangle](C_Programming/rectangle.c)
