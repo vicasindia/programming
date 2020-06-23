@@ -44,3 +44,9 @@
 * [Rectangle](C_Programming/rectangle.c)
 
 #### 11. Other Programs
+
+* [ASCII Table](C_Programming/ascii_table.c)
+* [Anagrams](C_Programming/anagrams.c)
+* [Decimal to Binary Converter](C_Programming/binary_converter.c)
+* [Celsius to Fahrenheit Converter](C_Programming/celsius_to_fahrenheit.c)
+* [Fahrenheit to Celsius Converter](C_Programming/fahrenheit_to_celsius.c) 
