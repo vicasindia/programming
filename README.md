@@ -51,3 +51,5 @@
 * [Celsius to Fahrenheit Converter](C_Programming/celsius_to_fahrenheit.c)
 * [Fahrenheit to Celsius Converter](C_Programming/fahrenheit_to_celsius.c) 
 * [Char Sum](C_Programming/char_sum.c)
+* [Palindrome (String)](C_Programming/check_palindrome.c)
+* [Palindrome(String) using Functions](C_Programming/check_palindrome_using_functions.c)
