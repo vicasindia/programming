@@ -53,3 +53,6 @@
 * [Char Sum](C_Programming/char_sum.c)
 * [Palindrome (String)](C_Programming/check_palindrome.c)
 * [Palindrome(String) using Functions](C_Programming/check_palindrome_using_functions.c)
+* [Check Prime Number](C_Programming/check_prime_number.c)
+* [Digit Frequency](C_Programming/digit_frequency.c)
+* [English Alphabet](C_Programming/english_alphabet.c)
