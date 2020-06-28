@@ -56,3 +56,5 @@
 * [Check Prime Number](C_Programming/check_prime_number.c)
 * [Digit Frequency](C_Programming/digit_frequency.c)
 * [English Alphabet](C_Programming/english_alphabet.c)
+* [Factorial!](C_Programming/find_factorial.c)
+* [Factorial using Recursion](C_Programming/factorial_using_recursion.c)
