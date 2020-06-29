@@ -58,3 +58,7 @@
 * [English Alphabet](C_Programming/english_alphabet.c)
 * [Factorial!](C_Programming/find_factorial.c)
 * [Factorial using Recursion](C_Programming/factorial_using_recursion.c)
+* [Fast Input ★](C_Programming/fast_input.c)
+* [Fibonacci Numbers](C_Programming/fibonacci.c)
+* [Fibonacci using Recursion](C_Programming/fibonacci_using_recursion.c)
+
