@@ -45,7 +45,7 @@
 
 #### 11. Other Programs
 
-* [ASCII Table](C_Programming/ascii_table.c)
+* [ASCII Table ★](C_Programming/ascii_table.c)
 * [Anagrams](C_Programming/anagrams.c)
 * [Decimal to Binary Converter](C_Programming/binary_converter.c)
 * [Celsius to Fahrenheit Converter](C_Programming/celsius_to_fahrenheit.c)
@@ -61,4 +61,8 @@
 * [Fast Input ★](C_Programming/fast_input.c)
 * [Fibonacci Numbers](C_Programming/fibonacci.c)
 * [Fibonacci using Recursion](C_Programming/fibonacci_using_recursion.c)
+* [Sum of first & last digit of an integer](C_Programming/first_last_digit_sum.c)
+* [Palindrome](C_Programming/isPalindrome.c)
+* [Largest among three numbers](C_Programming/largest_number_among_three.c)
+* [Largest among three numbers (using nested loop)](C_Programming/largest_number_among_three_02.c)
 
