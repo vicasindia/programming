@@ -62,6 +62,7 @@
 * [English Alphabet](C_Programming/english_alphabet.c)
 * [Fast Input ★](C_Programming/fast_input.c)
 * [Leap Year (366 days)](C_Programming/leap_year.c)
+* [Minimum numbers of Notes](C_Programming/minimum_number_of_notes.c)
 * [Palindrome](C_Programming/isPalindrome.c)
 * [Palindrome (String)](C_Programming/check_palindrome.c)
 * [Palindrome (String) using Functions](C_Programming/check_palindrome_using_functions.c)
