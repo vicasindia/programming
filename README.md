@@ -38,6 +38,7 @@
 * [Tables](C_Programming/tables.c)
 * [Smallest and Largest Number](C_Programming/min_max_number.c)
 * [Largest among 4 numbers](C_Programming/max_of_four.c)
+* [Second largest among 3 numbers](C_Programming/second_largest_among_three.c)
 * [Sum of Natural Numbers: O(n)](C_Programming/sum_of_natural_numbers.c)
 * [Sum of Natural Numbers: O(1)](C_Programming/sum_of_natural_numbers_02.c)
 * [Sum of first & last digit of an integer](C_Programming/first_last_digit_sum.c)
