@@ -70,5 +70,7 @@
 * [Palindrome (String)](C_Programming/check_palindrome.c)
 * [Palindrome (String) using Functions](C_Programming/check_palindrome_using_functions.c)
 * [Printing Tokens](C_Programming/printing_tokens.c)
-* [Swap Two Numbers](C_Programming/swap_two_numbers.c)
+* [Swap two numbers](C_Programming/swap_two_numbers.c)
+* [Swap without third variable](C_Programming/swapping_without_third_variable.c)
+* [Swap using Pointers](C_Programming/swap_using_pointers.c)
 
