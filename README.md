@@ -74,4 +74,5 @@
 * [Swap without third variable](C_Programming/swapping_without_third_variable.c)
 * [Swap using Pointers](C_Programming/swap_using_pointers.c)
 * [Time Conversion](C_Programming/time_conversion.c)
+* [Toggle String](C_Programming/toggle_string.c)
 
