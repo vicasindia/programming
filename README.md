@@ -75,4 +75,5 @@
 * [Swap using Pointers](C_Programming/swap_using_pointers.c)
 * [Time Conversion](C_Programming/time_conversion.c)
 * [Toggle String](C_Programming/toggle_string.c)
+* [Validate ISBN](C_Programming/validate_isbn.c)
 
