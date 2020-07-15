@@ -77,4 +77,5 @@
 * [Toggle String](C_Programming/toggle_string.c)
 * [Validate ISBN](C_Programming/validate_isbn.c)
 * [Version Control System](C_Programming/version_control_system.c)
-
+* [Vowels Counter](C_Programming/vowels_counter.c)
+* [Vowels Counter using Function](C_Programming/vowels_counter_02.c)
