@@ -19,6 +19,7 @@
 * [Example: Largest among 3 numbers (using nested loop)](C_Programming/largest_number_among_three_02.c)
 * [switch statement](C_Programming/switch_statement.c)
 * [Example: Simple Calculator](C_Programming/simple_calculator.c)
+* [while loop](C_Programming/while_loop.c)
 
 #### 04. Functions
 
