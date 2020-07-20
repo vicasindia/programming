@@ -20,6 +20,7 @@
 * [switch statement](C_Programming/switch_statement.c)
 * [Example: Simple Calculator](C_Programming/simple_calculator.c)
 * [while loop](C_Programming/while_loop.c)
+* [do while loop](C_Programming/do_while_loop.c)
 
 #### 04. Functions
 
