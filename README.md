@@ -21,6 +21,7 @@
 * [Example: Simple Calculator](C_Programming/simple_calculator.c)
 * [while loop](C_Programming/while_loop.c)
 * [do while loop](C_Programming/do_while_loop.c)
+* [for loop](C_Programming/for_loop.c)
 
 #### 04. Functions
 
