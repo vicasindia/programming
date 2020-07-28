@@ -71,7 +71,7 @@
 * [Number to Word or Print Even-Odd](C_Programming/number_word_or_even_odd.c)
 * [Palindrome](C_Programming/isPalindrome.c)
 * [Palindrome (String)](C_Programming/check_palindrome.c)
-* [Palindrome (String) using Functions](C_Programming/check_palindrome_using_functions.c)
+* [Palindrome using Functions](C_Programming/check_palindrome_using_functions.c)
 * [Printing Tokens](C_Programming/printing_tokens.c)
 * [Swap two numbers](C_Programming/swap_two_numbers.c)
 * [Swap without third variable](C_Programming/swapping_without_third_variable.c)
