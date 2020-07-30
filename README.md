@@ -22,6 +22,7 @@
 * [while loop](C_Programming/while_loop.c)
 * [do while loop](C_Programming/do_while_loop.c)
 * [for loop](C_Programming/for_loop.c)
+* [Read Input until user enters a positive number](C_Programming/read_input_until_enter_positive_number.c)
 
 #### 04. Functions
 
