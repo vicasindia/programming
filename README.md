@@ -24,6 +24,7 @@
 * [for loop](C_Programming/for_loop.c)
 * [Read Input until user enters a positive number](C_Programming/read_input_until_enter_positive_number.c)
 * [continue](C_Programming/continue.c)
+* [break](C_Programming/break.c)
 
 #### 04. Functions
 
