@@ -25,6 +25,8 @@
 * [Read Input until user enters a positive number](C_Programming/read_input_until_enter_positive_number.c)
 * [continue](C_Programming/continue.c)
 * [break](C_Programming/break.c)
+* [Digits Counter](C_Programming/count_digits.c)
+
 
 #### 04. Functions
 
