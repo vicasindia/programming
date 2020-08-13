@@ -56,6 +56,7 @@
 * [Factorial using Recursion](C_Programming/factorial_using_recursion.c)
 * [Prime Number](C_Programming/check_prime_number.c)
 * [Perfect Number](C_Programming/perfect_number.c)
+* [Armstrong Number](C_Programming/armstrong_number.c)
 * [Circle](C_Programming/circle.c)
 * [Triangle](C_Programming/triangle.c)
 * [Rectangle](C_Programming/rectangle.c)
