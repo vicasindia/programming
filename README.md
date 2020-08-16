@@ -26,12 +26,13 @@
 * [continue](C_Programming/continue.c)
 * [break](C_Programming/break.c)
 * [Digits Counter](C_Programming/count_digits.c)
+* [Palindrome Number](C_Programming/palindrome_number.c)
 
 
 #### 04. Functions
 
 #### 05. Pointers
-
+Palindrome Number
 #### 06. Arrays
 
 #### 07. Strings
