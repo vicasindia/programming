@@ -28,11 +28,12 @@
 * [Digits Counter](C_Programming/count_digits.c)
 * [Palindrome Number](C_Programming/palindrome_number.c)
 
-
 #### 04. Functions
 
+* [max()](C_Programming/max_function.c)
+
 #### 05. Pointers
-Palindrome Number
+
 #### 06. Arrays
 
 #### 07. Strings
