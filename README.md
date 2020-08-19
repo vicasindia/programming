@@ -31,6 +31,7 @@
 #### 04. Functions
 
 * [max()](C_Programming/max_function.c)
+* [min()](C_Programming/min_function.c)
 
 #### 05. Pointers
 
