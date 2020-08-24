@@ -32,6 +32,7 @@
 
 * [max()](C_Programming/max_function.c)
 * [min()](C_Programming/min_function.c)
+* [sum()](C_Programming/sum_function.c)
 * [pow()](C_Programming/pow_function.c)
 * [count()](C_Programming/count_function.c)
 
