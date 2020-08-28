@@ -37,6 +37,7 @@
 * [pow()](C_Programming/pow_function.c)
 * [count()](C_Programming/count_function.c)
 * [strlen()](C_Programming/strlen_function.c)
+* [strcpy()](C_Programming/strcpy_function.c)
 
 #### 05. Pointers
 
