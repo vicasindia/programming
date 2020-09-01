@@ -39,7 +39,8 @@
 * [strlen()](C_Programming/strlen_function.c)
 * [strcpy()](C_Programming/strcpy_function.c)
 * [first_index()](C_Programming/first_index_function.c)
-* [last_index()](C_Programming/last_index_function.c)
+* [last_index()](C_Programming/last_index_function.c
+* [strdlt()](C_Programming/strdlt_function.c)
 
 #### 05. Pointers
 
