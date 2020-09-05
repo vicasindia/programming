@@ -40,6 +40,7 @@
 * [strcpy()](C_Programming/strcpy_function.c)
 * [first_index()](C_Programming/first_index_function.c)
 * [last_index()](C_Programming/last_index_function.c)
+* [strcmp()](C_Programming/strcmp_function.c) 
 
 #### 05. Pointers
 
