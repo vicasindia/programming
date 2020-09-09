@@ -43,7 +43,8 @@
 * [last_index()](C_Programming/last_index_function.c)
 * [strcmp()](C_Programming/strcmp_function.c) 
 * [strcat()](C_Programming/strcat_function.c)
-* [atoi()](C_Programming/atoi_function.c) 
+* [atoi()](C_Programming/atoi_function.c)
+* [itoa()](C_Programming/itoa_function.c) 
 
 #### 05. Pointers
 
