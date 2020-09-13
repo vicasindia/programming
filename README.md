@@ -45,7 +45,8 @@
 * [strcat()](C_Programming/strcat_function.c)
 * [atoi()](C_Programming/atoi_function.c)
 * [itoa()](C_Programming/itoa_function.c)
-* [isUpper()](C_Programming/is_upper_function.c) 
+* [isUpper()](C_Programming/is_upper_function.c)
+* [isLower()](C_Programming/is_lower_function.c)
 
 #### 05. Pointers
 
