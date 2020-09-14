@@ -2,16 +2,10 @@
 
 #include <stdio.h>
 
-//swap function
-long swap(long *a, long *b) {	
-    long temp;
-    temp = *b;
-    *b = *a;
-    *a = temp;   
-}    
+void swap(long *first, long *second);	//Function prototype
 
-int main(void) {
-    
+int main(void)
+{  
 	long num1, num2;
 	
 	printf("Enter two numbers: ");
@@ -24,5 +18,13 @@ int main(void) {
 	printf("\nAfter Swapping:  Num1 = %ld, Num2 = %ld", num1, num2);
 	
 	return 0;
+}
+
+//Swap Function definition
+void swap(long *first, long *second)
+{	
+    long temp = *second;
+    *second = *first;
+    *first = temp;   
 }   
 
