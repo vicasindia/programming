@@ -47,6 +47,7 @@
 * [itoa()](C_Programming/itoa_function.c)
 * [isUpper()](C_Programming/is_upper_function.c)
 * [isLower()](C_Programming/is_lower_function.c)
+* [toUpperCase()](C_Programming/to_upper_case_function.c)
 
 #### 05. Pointers
 
