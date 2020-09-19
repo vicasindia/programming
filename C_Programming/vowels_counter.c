@@ -3,7 +3,7 @@
 
 //Custom function which counts number of vowels in a given string
 int isVowel(char ch) {
-    char vowels[10] = "aeiouAEIOU";
+    char vowels[11] = "aeiouAEIOU";
 	for(int i = 0; i < 10; i++) {
 	    if(ch == vowels[i])
 			return 1;
