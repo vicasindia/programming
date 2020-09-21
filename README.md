@@ -49,7 +49,7 @@
 * [isLower()](C_Programming/is_lower_function.c)
 * [toUpperCase()](C_Programming/to_upper_case_function.c)
 * [toLowerCase()](C_Programming/to_lower_case_function.c)
-* [isAlphNumeric()](C_Programming/is_alpha_numeric_function.c)
+* [isAlphaNumeric()](C_Programming/is_alpha_numeric_function.c)
 
 #### 05. Pointers
 
