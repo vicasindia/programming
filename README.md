@@ -36,6 +36,7 @@
 * [diff()](C_Programming/diff_function.c)
 * [product()](C_Programming/product_function.c)
 * [division()](C_Programming/division_function.c)
+* [remainder()](C_Programming/remainder_function.c)
 * [pow()](C_Programming/pow_function.c)
 * [sqrt()](C_Programming/sqrt_function.c)
 * [count()](C_Programming/count_function.c)
