@@ -39,6 +39,7 @@
 * [remainder()](C_Programming/remainder_function.c)
 * [pow()](C_Programming/pow_function.c)
 * [sqrt()](C_Programming/sqrt_function.c)
+* [cbrt()](C_Programming/cbrt_function.c)
 * [count()](C_Programming/count_function.c)
 * [first_index()](C_Programming/first_index_function.c)
 * [last_index()](C_Programming/last_index_function.c)
