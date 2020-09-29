@@ -55,7 +55,7 @@
 * [toUpperCase()](C_Programming/to_upper_case_function.c)
 * [toLowerCase()](C_Programming/to_lower_case_function.c)
 * [isAlphaNumeric()](C_Programming/is_alpha_numeric_function.c)
-* [strtoggle()](C_Programming/str_toggle_function.c)
+* [caseToggle()](C_Programming/case_toggle_function.c)
 
 #### 05. Pointers
 
