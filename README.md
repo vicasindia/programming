@@ -30,13 +30,14 @@
 
 #### 04. Functions
 
-* [max()](C_Programming/max_function.c)
-* [min()](C_Programming/min_function.c)
 * [sum()](C_Programming/sum_function.c)
 * [diff()](C_Programming/diff_function.c)
 * [product()](C_Programming/product_function.c)
 * [division()](C_Programming/division_function.c)
 * [remainder()](C_Programming/remainder_function.c)
+* [max()](C_Programming/max_function.c)
+* [min()](C_Programming/min_function.c)
+* [avg()](C_Programming/avg_function.c)
 * [pow()](C_Programming/pow_function.c)
 * [sqrt()](C_Programming/sqrt_function.c)
 * [cbrt()](C_Programming/cbrt_function.c)
