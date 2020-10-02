@@ -1,4 +1,3 @@
-
 # Program to count number of digits in an integer
 
 from math import log
@@ -10,3 +9,4 @@ try:
 	print(int(log(number, 10))+1)
 except:
 	print(1)
+	
