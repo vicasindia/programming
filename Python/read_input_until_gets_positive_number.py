@@ -6,3 +6,4 @@ while True:
 	if number > 0:
 		print("Positive number is", number)
 		break
+		
