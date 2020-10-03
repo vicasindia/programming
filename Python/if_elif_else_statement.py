@@ -1,4 +1,4 @@
-# Control flow: if else-if statement
+# Control flow: if elif else statement
 
 number = 30
 if number < 20:	# checking condition
