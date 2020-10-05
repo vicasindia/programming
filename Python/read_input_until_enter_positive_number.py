@@ -5,4 +5,4 @@ while True:
 	number = int(input("Enter a number: "))
 	if number > 0:
 		print("Positive number is", number)
-		break
+		break		

@@ -3,7 +3,9 @@
 
 num = input("Enter an integer: ")
 num = str(int(num))
+
 if num == num[::-1]:
 	print("Palindrome")
 else:
 	print("Not a Palindrome")
+	

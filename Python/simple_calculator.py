@@ -17,6 +17,6 @@ elif operator == '/':
 		print("Division of {} by {} = {}".format(operand1, operand2, operand1 / operand2))
 	except:
 		print("Division by Zero")
-
 else:
 	print("Please, Enter valid operator.")
+	
