@@ -9,3 +9,7 @@
 * [Read Input until user enters a positive number](read_input_until_enter_positive_number.py)
 * [Digits Counter](count_digits.py)
 * [Palindrome Number](palindrome_number.py)
+* [Anagrams](anagrams.py)
+* [ASCII Table](ascii_table.py)
+* [Binary Converter](binary_converter.py)
+* [Char Sum](char_sum.py)
