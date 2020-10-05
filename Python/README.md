@@ -7,3 +7,7 @@
 * [Read Input until user enters a positive number](Python/read_input_until_enter_positive_number.py)
 * [Digits Counter](Python/count_digits.py)
 * [Palindrome Number](Python/palindrome_number.py)
+* [Anagrams](Python/anagrams.py)
+*[Ascii Table](Python/ascii_table.py)
+*[Binary Converter](Python/binary_converter.py)
+*[Char Sum](Python/char_sum.py)
