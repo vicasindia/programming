@@ -13,3 +13,8 @@
 * [ASCII Table](ascii_table.py)
 * [Binary Converter](binary_converter.py)
 * [Char Sum](char_sum.py)
+* [Validate ISBN](validate_isbn.py)
+* [English Alphabets](english_alphabets.py)
+* [Time Conversion](time_conversion.py)
+* [Leap Year](leap_year.py)
+* [Digit Frequency](digit_frequency.py)
