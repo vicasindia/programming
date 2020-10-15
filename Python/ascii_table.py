@@ -15,7 +15,6 @@ for i in range(1, 128):
 	print('-'*45)
 
 
-
 """
 Note: Some characters are not visible to console.
 

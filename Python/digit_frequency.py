@@ -12,3 +12,4 @@ print("Digits frequency in order 0-9 are: ")
 for i in freq:
 	print(i, end=" ")
 print()
+

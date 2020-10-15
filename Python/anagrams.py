@@ -6,16 +6,13 @@ determine the minimum number of character deletions required to make a and b ana
 Any characters can be deleted from either of the strings.
 
 Input :
-
 Test cases, T
 Two strings a and b, for each test case
 
 Output:
-
 Desired O/P
 
 Constraints :
-
 1 < String lengths <10000
 
 Note :
@@ -34,7 +31,6 @@ abs(count1[str1[i]-‘a’] – count2[str2[i]-‘a’])
 in both the strings is the number of character to be removed
 in either string.
 """
-
 
 
 # function to calculate minimum  
@@ -56,5 +52,4 @@ for tc in range(int(input())):
     a = input()
     b = input()
     print(makeAnagram(a, b))
-
 

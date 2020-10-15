@@ -26,4 +26,3 @@ for i in string:
 	sum += ord(i)-96	# ASCII value of 'a' = 97
 print("The summation of weight of each character of String: ", sum)
 
-
