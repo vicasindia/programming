@@ -18,3 +18,4 @@
 * [Time Conversion](time_conversion.py)
 * [Leap Year](leap_year.py)
 * [Digit Frequency](digit_frequency.py)
+* [Natura Numbers(1-1000)](natural_numbers.py)
