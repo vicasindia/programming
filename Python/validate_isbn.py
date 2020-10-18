@@ -35,3 +35,5 @@ if validate_isbn(num):
 	print("Result: Legal ISBN")
 else:
 	print("Result: Illegal ISBN")
+
+	
