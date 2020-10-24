@@ -42,6 +42,7 @@
 * [sqrt()](sqrt_function.c)
 * [cbrt()](cbrt_function.c)
 * [kthroot()](kthroot_function.c)
+* [mean()](mean_function.c)
 * [mode()](mode_function.c)
 * [median()](median_function.c)
 * [countDigits()](count_digits_function.c)
