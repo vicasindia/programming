@@ -45,6 +45,7 @@
 * [mean()](mean_function.c)
 * [mode()](mode_function.c)
 * [median()](median_function.c)
+* [deviation()](deviation_function.c)
 * [countDigits()](count_digits_function.c)
 * [first_index()](first_index_function.c)
 * [last_index()](last_index_function.c)
