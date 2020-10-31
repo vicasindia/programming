@@ -60,6 +60,7 @@
 * [toUpperCase()](to_upper_case_function.c)
 * [toLowerCase()](to_lower_case_function.c)
 * [isAlphaNumeric()](is_alpha_numeric_function.c)
+* [isNumeric()](is_numeric_function.c)
 * [caseToggle()](case_toggle_function.c)
 * [isSpace()](is_space_function.c)
 
