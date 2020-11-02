@@ -87,7 +87,7 @@
 * [Sum of first & last digit of an integer](first_last_digit_sum.c)
 * [Fibonacci Numbers](fibonacci.c)
 * [Fibonacci using Recursion](fibonacci_using_recursion.c)
-* [Factorial !](find_factorial.c)
+* [Factorial!](find_factorial.c)
 * [Factorial using Recursion](factorial_using_recursion.c)
 * [Prime Number](check_prime_number.c)
 * [Perfect Number](perfect_number.c)
