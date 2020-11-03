@@ -67,6 +67,8 @@
 
 #### 05. Pointers
 
+* [Pointer Intro](pointer_intro.c)
+
 #### 06. Arrays
 
 #### 07. Strings
