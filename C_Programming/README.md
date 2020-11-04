@@ -68,6 +68,7 @@
 #### 05. Pointers
 
 * [Pointer Intro](pointer_intro.c)
+* [Address Arithmetic](pointer_arithmetic.c)
 
 #### 06. Arrays
 
