@@ -76,6 +76,8 @@
 
 #### 07. Strings
 
+* [Strings Intro](string_intro.c)
+
 #### 08. Input Output
 
 #### 09. Recursion
