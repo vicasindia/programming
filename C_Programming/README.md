@@ -47,7 +47,7 @@
 * [median()](median_function.c)
 * [deviation()](deviation_function.c)
 * [countDigits()](count_digits_function.c)
-* [first_index()](first_index_function.c)
+* [strchr()](first_index_function.c)
 * [last_index()](last_index_function.c)
 * [strlen()](strlen_function.c)
 * [strcpy()](strcpy_function.c)
