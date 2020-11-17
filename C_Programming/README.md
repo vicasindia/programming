@@ -48,7 +48,7 @@
 * [deviation()](deviation_function.c)
 * [countDigits()](count_digits_function.c)
 * [strchr()](first_index_function.c)
-* [last_index()](last_index_function.c)
+* [strrchr()](last_index_function.c)
 * [strlen()](strlen_function.c)
 * [strcpy()](strcpy_function.c)
 * [strcmp()](strcmp_function.c) 
