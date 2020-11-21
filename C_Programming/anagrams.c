@@ -24,19 +24,19 @@ Anagram of a word is formed by rearranging the letters of the word.
 
 e.g. -> For the word RAM - MAR,ARM,AMR,RMA etc. are few anagrams.
 
-																	-HackerEarth
+								-HackerEarth
 **********************************************************************************************/
 
 #include <stdio.h>
 #include <string.h>
 
-int main() {
-
+int main()
+{
 	int test;
 	scanf("%d", &test);
 
-	while(test--) {
-		
+	while(test--)
+	{		
 		char A[10000], B[10000];
 		scanf("%s %s", A, B);
 
