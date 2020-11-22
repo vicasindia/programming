@@ -70,11 +70,7 @@
 
 #### 06. Arrays
 
-* [Arrays Intro](arrays_intro.c)
-
 #### 07. Strings
-
-
 
 #### 08. Input Output
 
