@@ -32,9 +32,9 @@
 
 * [sum()](sum_function.c)
 * [diff()](diff_function.c)
-* [product()](product_function.c)
-* [division()](division_function.c)
-* [remainder()](remainder_function.c)
+* [prod()](product_function.c)
+* [div()](division_function.c)
+* [rem()](remainder_function.c)
 * [max()](max_function.c)
 * [min()](min_function.c)
 * [avg()](avg_function.c)
@@ -66,7 +66,6 @@
 * [isSpace()](is_space_function.c)
 
 #### 05. Pointers
-
 
 #### 06. Arrays
 
