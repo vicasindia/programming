@@ -5,6 +5,8 @@
 * Total submissions: **483**
 * Number of distinct users with correct submission: **32**
 
+* **Problem Setters & Testers:** Vikas Yadav, Deepak Chaudhary, Lalit Singh
+
 ### [Contest Link](https://www.codechef.com/CAFE2020)
 
 ![banner](CAFE2020_banner.jpeg)
