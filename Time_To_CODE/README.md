@@ -5,7 +5,7 @@
 * Total submissions: **424**
 * Number of distinct users with correct submission: **51**
 
-* **Problem Setters & Testers:** Vikas Yadav, Keshav Kumar, Lalit Singh, Priyam
+**Problem Setters & Testers:** Vikas Yadav, Keshav Kumar, Lalit Singh, Priyam
 
 ### [Contest Link](https://www.codechef.com/TTOE2020)
 
