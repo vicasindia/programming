@@ -2,10 +2,13 @@
 
 #include <stdio.h>
  
-int main() {
+int main()
+{
     int ch;
     printf("Input String: \n");
-    while(ch=getchar()) {
+	
+    while(ch=getchar())
+	{
         if(ch >= 'A' & ch <= 'Z')
             ch += 32;
         else if(ch >= 'a' & ch <= 'z')
