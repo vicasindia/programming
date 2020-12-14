@@ -7,25 +7,28 @@ The first few prime numbers are {2, 3, 5, 7, 11, ….}
 #include <stdio.h>
 #include <math.h>
 
-int main(void) {
-	
+int main(void)
+{
 	long num; 
-	int i, flag=1;
+	int flag = 1;
 	
 	printf("Enter a number: ");
 	scanf("%ld", &num);
 
-	if(num == 2) {			//2 is Prime number
-
+	if(num == 2)
+	{
+		//2 is Prime number
 	}			
 
 	else if(num < 2 || !(num % 2))		//Even numbers (except 2) can't be Prime numbers
 		flag = 0;
 
-	else {
-		for(i = 3; i <= sqrt(num); i += 2) {
-		    
-		    if(!(num % i)) {
+	else
+	{
+		for(int i = 3; i <= sqrt(num); i += 2)
+		{		    
+		    if(!(num % i))
+			{
 		        flag = 0;
 		        break;
 		    }
