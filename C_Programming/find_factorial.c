@@ -8,7 +8,7 @@ int main()
 	int num;
 	unsigned long long fact = 1;
 	
-    printf("Enter the number to find factorial: ");
+    printf("Enter the number to find the factorial: ");
 	scanf("%d", &num);
 	
 	for(int i = num; i >= 2; i--)
