@@ -9,9 +9,12 @@ int main()
 	scanf("%llu", &num);
 	
 	int last = num % 10;
+	
 	while(num > 10)
 		num /= 10;
+	
 	printf("Sum of first and last digit: %d", num + last);
 	
 	return 0;
 }
+
