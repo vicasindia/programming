@@ -121,5 +121,5 @@
 * [Toggle String](toggle_string.c)
 * [Validate ISBN](validate_isbn.c)
 * [Version Control System](version_control_system.c)
-* [Vowels Counter](vowels_counter.c)
-* [Vowels Counter using Function](vowels_counter_02.c)
+* [Vowel Counter](vowels_counter.c)
+* [Vowel Counter using Function](vowels_counter_02.c)
