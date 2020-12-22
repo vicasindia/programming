@@ -14,7 +14,7 @@
 * [if-else statement](if-else_statement.c)
 * [if else-if statement](if_else-if_statement.c)
 * [Nested if statement](nested_if_statement.c)
-* [Even Odd](even_odd.c)
+* [Even - Odd](even_odd.c)
 * [Largest among 3 numbers](largest_number_among_three.c)
 * [Largest among 3 numbers (using nested loop)](largest_number_among_three_02.c)
 * [switch statement](switch_statement.c)
