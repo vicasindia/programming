@@ -1,3 +1,5 @@
+// Copy Input to Output
+
 #include <stdio.h>
 
 int main()
@@ -7,3 +9,4 @@ int main()
 		putchar(c);	
 	return 0;
 }
+
