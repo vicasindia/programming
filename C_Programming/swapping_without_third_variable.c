@@ -2,8 +2,8 @@
 
 #include <stdio.h>
 
-int main(void) {
-    
+int main(void)
+{    
 	long num1, num2, temp;
 	
 	printf("Enter two numbers: ");
@@ -30,3 +30,4 @@ int main(void) {
 	
 	return 0;
 }
+
