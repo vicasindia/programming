@@ -13,10 +13,10 @@ long max_of_four(long a, long b, long c, long d)
 int main()
 {
     long a, b, c, d;
-    printf("Enter 4 numbers:\n");
+    printf("Enter 4 numbers: ");
     scanf("%ld %ld %ld %ld", &a, &b, &c, &d);
     long ans = max_of_four(a, b, c, d);
-    printf("Max is %ld.", ans);
+    printf("\nMax is %ld.", ans);
     
     return 0;
 }
