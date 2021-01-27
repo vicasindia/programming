@@ -6,13 +6,15 @@ int main()
     printf("------------------------------------------------------\n");
     printf(" Dec\t|\tHex\t|\tOct\t|\tChar\n");
     printf("------------------------------------------------------\n");
-    for(int i=0; i<128; i++) {
+    for(int i = 0; i < 128; i++)
+    {
         printf("  %d\t|\t%X\t|\t%o\t|\t%c\n", i, i, i, i);
-        if(i==27)
+        if(i == 27)
             printf("\n");
         printf("------------------------------------------------------\n");
     }
     printf("\n Some characters are not visible to console.");
+    
     return 0;
 }
 
